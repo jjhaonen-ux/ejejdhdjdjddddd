@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مختبر البرومبت</string>
+    <string name="input_hint">اكتب ما تريد بصياغتك العادية… مثال: أبي إعلان لدورتي في إنستغرام، باللهجة السعودية، لا تذكر السعر</string>
+    <string name="analyze">حلّل وولّد</string>
+    <string name="shared_text_received">وصل نص من مشاركة تطبيق آخر</string>
+    <string name="review_title">ما فهمته من طلبك</string>
+    <string name="task_type">نوع المهمة</string>
+    <string name="complexity">التعقيد</string>
+    <string name="quality_score">درجة الطلب</string>
+    <string name="findings_title">ملاحظات التحليل</string>
+    <string name="constraints_title">القيود الصريحة (ستُحفظ حرفيًا)</string>
+    <string name="questions_title">أسئلة مؤثرة (يمكن تخطيها)</string>
+    <string name="skip">تخطي</string>
+    <string name="answer_placeholder">إجابتك (اختياري)</string>
+    <string name="generate">ولّد البرومبت</string>
+    <string name="result_title">البرومبت الجاهز للنسخ</string>
+    <string name="mode_improve">تحسين</string>
+    <string name="mode_shorten">اختصار</string>
+    <string name="mode_detailed">نسخة مفصلة</string>
+    <string name="what_changed">ما تغيّر ولماذا</string>
+    <string name="show_diff">عرض المقارنة</string>
+    <string name="hide_diff">إخفاء المقارنة</string>
+    <string name="copy">نسخ</string>
+    <string name="copied">تم النسخ ✓</string>
+    <string name="share">مشاركة</string>
+    <string name="save_history">حفظ في السجل</string>
+    <string name="saved">تم الحفظ ✓</string>
+    <string name="delete">حذف</string>
+    <string name="delete_all">حذف الكل</string>
+    <string name="history">السجل</string>
+    <string name="favorites_only">المفضلة فقط</string>
+    <string name="edit_result">تعديل النتيجة</string>
+    <string name="edit_done">تم التعديل — الأصل محفوظ</string>
+    <string name="offline_note">يعمل كل شيء محليًا دون إنترنت — لا يُرسل نصك إلى أي جهة.</string>
+    <string name="empty_history">السجل فارغ — أول برومبت تحفظه سيظهر هنا.</string>
+    <string name="back">رجوع</string>
+    <string name="start_over">طلب جديد</string>
+    <string name="draft_restored">استعدنا مسودتك المحفوظة</string>
+</resources>

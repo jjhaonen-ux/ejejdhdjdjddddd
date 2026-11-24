@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prompt Lab</string>
+    <string name="input_hint">Write what you want in plain words… e.g. Write an Instagram ad for my course, Saudi dialect, do not mention the price</string>
+    <string name="analyze">Analyze &amp; generate</string>
+    <string name="shared_text_received">Text received via Android share</string>
+    <string name="review_title">What we understood from your request</string>
+    <string name="task_type">Task type</string>
+    <string name="complexity">Complexity</string>
+    <string name="quality_score">Request score</string>
+    <string name="findings_title">Analysis findings</string>
+    <string name="constraints_title">Explicit constraints (kept verbatim)</string>
+    <string name="questions_title">Impactful questions (skippable)</string>
+    <string name="skip">Skip</string>
+    <string name="answer_placeholder">Your answer (optional)</string>
+    <string name="generate">Generate prompt</string>
+    <string name="result_title">Ready-to-copy prompt</string>
+    <string name="mode_improve">Improve</string>
+    <string name="mode_shorten">Shorten</string>
+    <string name="mode_detailed">Detailed</string>
+    <string name="what_changed">What changed &amp; why</string>
+    <string name="show_diff">Show diff</string>
+    <string name="hide_diff">Hide diff</string>
+    <string name="copy">Copy</string>
+    <string name="copied">Copied ✓</string>
+    <string name="share">Share</string>
+    <string name="save_history">Save to history</string>
+    <string name="saved">Saved ✓</string>
+    <string name="delete">Delete</string>
+    <string name="delete_all">Delete all</string>
+    <string name="history">History</string>
+    <string name="favorites_only">Favorites only</string>
+    <string name="edit_result">Edit result</string>
+    <string name="edit_done">Edited — original preserved</string>
+    <string name="offline_note">Everything runs locally with no internet — your text never leaves the device.</string>
+    <string name="empty_history">History is empty — your first saved prompt appears here.</string>
+    <string name="back">Back</string>
+    <string name="start_over">New request</string>
+    <string name="draft_restored">Restored your saved draft</string>
+</resources>
